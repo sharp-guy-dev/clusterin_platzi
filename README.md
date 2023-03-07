@@ -1,1 +1,1 @@
-# clusterin_platzi
+# clustering with platzi
